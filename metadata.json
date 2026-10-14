@@ -1,0 +1,11 @@
+{
+  "name": "Allo-Allo",
+  "description": "Application de rencontre innovante et réseau social vidéo pour la diaspora tunisienne, les locaux et les amoureux de la Tunisie.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
